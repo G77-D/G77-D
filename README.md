@@ -1,16 +1,15 @@
+![](https://github.com/G77-D/G77-D/blob/e696db4ba2f5f993bd388b23eb1a1174a2fbf3ba/welcome%20banner%20discord%20glitch%20fif%20-%20Imgur.gif)
 
+---
 
+   <img src="https://github.com/G77-D/G77-D/blob/1d924fc8f17077b81cff0d2cdf441598d9396285/code%201.gif"/>  
 
-![](https://github.com/G77-D/G77-D/blob/f870dea97bfa078b7de5bdde394f10608f6e46bc/Digital_rain_banner.gif)
-
-
+                                                          
+  
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
+  
+  
 
-- 🧐 &nbsp; Motivated, self-driven and loving my newfound passion in web development since 09/2020. 
-- 🎓 &nbsp; Attending a full-stack web development course at DCI Digital Career Institute gGmbH.
-- 🌱 &nbsp; Currently learning backend development using NodeJS, ExpressJS and MongoDB.
-- 🎓 &nbsp; Completed a full-stack web development course at DCI Digital Career Institute gGmbH.
-- 🌱 &nbsp; Working as a Junior Frontend Developer at 9elements. 
 
 
 
@@ -25,7 +24,18 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   
+  ---
   
+  
+  
+  <div align="center">
+<a href="https://github.com/awartanian/github-readme-stats">
+  <img width=450 align="center" src="https://github-readme-stats.vercel.app/api?username=awartanian&count_private=true&show_icons=true&bg_color=66000000&text_color=5D6D7E&title_color=0078FF&border_color=66000000&custom_title=GitHub Stats" />
+</a>
+<a href="https://github.com/G77-D/github-readme-stats">
+  <img card_width=450 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awartanian&layout=compact&bg_color=66000000&text_color=5D6D7E&title_color=0078FF&border_color=66000000&langs_count=4" />
+</a> 
+</div>
   
 
  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/output/github-contribution-grid-snake.gif" />
