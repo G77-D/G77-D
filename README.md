@@ -1,18 +1,22 @@
 ![](https://github.com/G77-D/G77-D/blob/f870dea97bfa078b7de5bdde394f10608f6e46bc/Digital_rain_banner.gif)
 
-### Hi there 👋
 
-<!--
-**G77-D/G77-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###HELLO 
 
-Here are some ideas to get you started:
+<a href="#">
+  <img align="right" width=260 height=170 src="./MERN-pic.png" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br/>
+
+ <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/output/github-contribution-grid-snake.gif" />
+ 
+
+ 
+
+
+
+
+
+![Visitor Count](https://profile-counter.glitch.me/{G77-D}/count.svg)
