@@ -1,3 +1,5 @@
+![](https://github.com/G77-D/G77-D/blob/f870dea97bfa078b7de5bdde394f10608f6e46bc/Digital_rain_banner.gif)
+
 ### Hi there 👋
 
 <!--
