@@ -2,15 +2,18 @@
 
 ---
 
-   <img src="https://github.com/G77-D/G77-D/blob/1d924fc8f17077b81cff0d2cdf441598d9396285/code%201.gif"/>  
+   <img width=600 height=300 src="https://github.com/G77-D/G77-D/blob/1d924fc8f17077b81cff0d2cdf441598d9396285/code%201.gif"/>  
 
-                                                          
+                                                
   
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
   
-  
+
+<P>klfsdfjoüwfjüfjüfjüfijüdsfopkdpfkopdk </p>
 
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 
 
 
@@ -24,10 +27,12 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   
-  ---
   
+ <img scr="https://github.com/G77-D/G77-D/blob/3bb9c9011f28cb2ac92ed0a3b2f530dc2999e71f/MERN-pic.png"/>
   
-  
+
+
+   <img width=260 height=170 src="./MERN-pic.png" />
   <div align="center">
 <a href="https://github.com/awartanian/github-readme-stats">
   <img width=450 align="center" src="https://github-readme-stats.vercel.app/api?username=awartanian&count_private=true&show_icons=true&bg_color=66000000&text_color=5D6D7E&title_color=0078FF&border_color=66000000&custom_title=GitHub Stats" />
@@ -37,8 +42,13 @@
 </a> 
 </div>
   
+---
+<img width=300 height=300 src="https://github.com/G77-D/G77-D/blob/3bb9c9011f28cb2ac92ed0a3b2f530dc2999e71f/contact.gif" />
+<h3> contact</h3>
 
- <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/output/github-contribution-grid-snake.gif" />
+
+
+<img  src="https://raw.githubusercontent.com/devSouvik/devSouvik/output/github-contribution-grid-snake.gif" />
 
 
 
