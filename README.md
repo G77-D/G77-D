@@ -2,14 +2,13 @@
 
 ---
 
-<img width=600 height=300 src="https://github.com/G77-D/G77-D/blob/1d924fc8f17077b81cff0d2cdf441598d9396285/code%201.gif"/>  
+<img align="right" width=300 height=300 src="https://github.com/G77-D/G77-D/blob/a395106fba8f11dac660a32ba3f592988fb855f4/Green%20%20screen%20.gif"/>  
+                                           
 
-                                                
-  
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
   
 
-<P>klfsdfjoüwfjüfjüfjüfijüdsfopkdpfkopdk </p>
+
 
 
 
@@ -36,24 +35,28 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
  
-
-   <img width=260 height=170 src="./MERN-pic.png" />
-   
-        
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-   
-![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
-   
+ <img width=260 height=170 src="./MERN-pic.png" />
+  
+  <p>text editor</p> 
+     
+ ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+ ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+ ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
    ---
-   ### DESIGN TOOLS 
-   ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+ 
    
-   ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
+   <br/>
+ <p> design tools</p>
    
-   ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
+
+  <img align="right" width=200 height=200 src="https://github.com/G77-D/G77-D/blob/a395106fba8f11dac660a32ba3f592988fb855f4/code%201.gif" />
  
    ---
 
+  ![]( https://github.com/G77-D/G77-D/blob/1d924fc8f17077b81cff0d2cdf441598d9396285/Digital_rain_banner.gif )  
+   
    
    
   <div align="center">
