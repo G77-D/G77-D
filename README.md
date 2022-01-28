@@ -1,4 +1,4 @@
-![](https://github.com/G77-D/G77-D/blob/e696db4ba2f5f993bd388b23eb1a1174a2fbf3ba/welcome%20banner%20discord%20glitch%20fif%20-%20Imgur.gif)
+![](https://github.com/G77-D/G77-D/blob/22ee1bfb5f4fee713718cebf10704511024a6eb6/banner%20(2).png)
 
 ---
 
