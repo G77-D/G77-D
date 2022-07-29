@@ -8,7 +8,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
   
 
-<p>bla bla bla</p>
+<p> Iam Gary  welcome</p>
 
 
 
