@@ -1,14 +1,17 @@
+
 ![](https://github.com/G77-D/G77-D/blob/22ee1bfb5f4fee713718cebf10704511024a6eb6/banner%20(2).png)
 
 ---
 
-<img align="right" width=300 height=300 src="https://github.com/G77-D/G77-D/blob/a395106fba8f11dac660a32ba3f592988fb855f4/Green%20%20screen%20.gif"/>  
-                                           
+<h1> Hello Iam Gary Dineen </h1>
+
+
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
   
 
-<p> Iam Gary  welcome</p>
+<p>I am a creative working in the digital space, I am constantly evolving and improving my skills. My background was originally in finance, and I slowly transitioned into UX&UI design, to further bolster my skill set I became a full stack developer. 
+I'm currently designing and building an app and also studying python. </p>
 
 
 
