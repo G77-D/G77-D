@@ -3,28 +3,16 @@
 
 ---
 
-<h1> Hello Iam Gary Dineen </h1>
+<h align="center"> Hello Iam Gary Dineen </h1>
 
 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
   
 
-<p>I am a creative working in the digital space, I am constantly evolving and improving my skills. My background was originally in finance, and I slowly transitioned into UX&UI design, to further bolster my skill set I became a full stack developer. 
+<p align="center"> I am a creative working in the digital space, I am constantly evolving and improving my skills. My background was originally in finance, and I slowly transitioned into UX&UI design, to further bolster my skill set I became a full stack developer. 
 I'm currently designing and building an app and also studying python. </p>
 
-
-
-
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-
-
-
-
-
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -37,11 +25,19 @@ I'm currently designing and building an app and also studying python. </p>
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
- 
- <img width=260 height=170 src="./MERN-pic.png" />
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+ <br></br>
   
-  <p>text editor</p> 
-     
+  
+<p align="center">
+   <img  width=260 height=170 src="./MERN-pic.png" />
+</p
+ 
+  <br></br>
+  
+  
+  
  ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
  ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
  ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
@@ -71,7 +67,7 @@ I'm currently designing and building an app and also studying python. </p>
 ---
 
 
-<h3> contact</h3>
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
