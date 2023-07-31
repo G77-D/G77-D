@@ -42,12 +42,9 @@ I'm currently designing and building an app and also studying python. </p>
  
    ---
   
-   <br/>
+
   
-   ---
 
-
----
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
